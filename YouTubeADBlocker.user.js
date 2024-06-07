@@ -14,7 +14,7 @@
 // @downloadURL  https://update.greasyfork.org/scripts/459541/YouTube%E5%8E%BB%E5%B9%BF%E5%91%8A.user.js
 // @updateURL    https://update.greasyfork.org/scripts/459541/YouTube%E5%8E%BB%E5%B9%BF%E5%91%8A.meta.js
 // ==/UserScript==
-export default (function() {
+(function() {
     'use strict';
 
     // Ad selectors
