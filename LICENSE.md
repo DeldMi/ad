@@ -18,7 +18,7 @@ Para importar um código JavaScript hospedado no GitHub para o seu projeto local
 
 ```
 
-Substitua "https://raw.githubusercontent.com/caminho/do/seu/script.js" pelo URL do arquivo JavaScript hospedado no GitHub que você deseja importar.
+Substitua "[https://raw.githubusercontent.com/caminho/do/seu/script.js](https://raw.githubusercontent.com/DeldMi/ad/main/YouTubeADBlocker.user.js)" pelo URL do arquivo JavaScript hospedado no GitHub que você deseja importar.
 
 Se preferir, você também pode usar o URL do arquivo raw.githubusercontent.com para importar o script diretamente no seu código JavaScript usando fetch ou XMLHttpRequest. Aqui está um exemplo usando fetch:
 
@@ -35,6 +35,6 @@ fetch('https://raw.githubusercontent.com/DeldMi/ad/main/YouTubeADBlocker.user.js
 
 ```
 
-Lembre-se de substituir "https://raw.githubusercontent.com/caminho/do/seu/script.js" pelo URL correto do script que você deseja importar.
+Lembre-se de substituir "[https://raw.githubusercontent.com/caminho/do/seu/script.js](https://raw.githubusercontent.com/DeldMi/ad/main/YouTubeADBlocker.user.js)" pelo URL correto do script que você deseja importar.
 
 No entanto, é importante ter em mente que importar scripts diretamente de URLs externos pode apresentar riscos de segurança. Certifique-se de confiar na origem do script que está importando.
