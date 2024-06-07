@@ -1,19 +1,3 @@
-// ==UserScript==
-// @name         YouTube AD Blocker
-// @namespace    https://github.com/iamfugui/YouTubeADB
-// @version      6.03
-// @description  This is a script that removes ads on YouTube. It's lightweight and efficient, capable of smoothly removing interface and video ads, including 6s ads.
-// @author       iamfugui
-// @match        *://*.youtube.com/*
-// @exclude      *://accounts.youtube.com/*
-// @exclude      *://www.youtube.com/live_chat_replay*
-// @exclude      *://www.youtube.com/persist_identity*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=YouTube.com
-// @grant        none
-// @license      MIT
-// @downloadURL  https://update.greasyfork.org/scripts/459541/YouTube%E5%8E%BB%E5%B9%BF%E5%91%8A.user.js
-// @updateURL    https://update.greasyfork.org/scripts/459541/YouTube%E5%8E%BB%E5%B9%BF%E5%91%8A.meta.js
-// ==/UserScript==
 (function() {
     'use strict';
 
